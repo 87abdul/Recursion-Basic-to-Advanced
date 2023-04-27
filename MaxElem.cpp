@@ -1,9 +1,8 @@
-// print array elements recursively
-
 #include <bits/stdc++.h>
 
 using namespace std;
 
+// print array elements recursively
 void displayArray(int arr[], int n, int idx)
 {
     if (idx == n)
